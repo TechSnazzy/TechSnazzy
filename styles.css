@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+main {
+  text-align: center;
+  padding: 2rem;
+}
+
+img {
+  max-width: 200px; /* Adjust this number until it looks good */
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem; /* center horizontally and add some space below */
+}
+
+p {
+  margin: 0.5rem 0;
+  color: #555;
+}
