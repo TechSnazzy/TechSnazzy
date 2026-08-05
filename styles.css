@@ -304,6 +304,10 @@ body {
 .tag-react      { background: rgba(0,188,212,0.2);   color: #4dd0e1; }
 .tag-js         { background: rgba(255,214,0,0.15);  color: #ffe57f; }
 .tag-bash       { background: rgba(150,100,255,0.2); color: #ce93d8; }
+.tag-intune     { background: rgba(84,110,255,0.2);  color: #9fa8ff; }
+.tag-teams      { background: rgba(98,100,167,0.28); color: #b3b5e6; }
+.tag-ringcentral { background: rgba(255,122,0,0.18); color: #ffb066; }
+.tag-virtualization { background: rgba(0,150,136,0.2); color: #4fd1c5; }
 
 .project-tech {
   display: flex;
