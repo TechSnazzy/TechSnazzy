@@ -37,6 +37,19 @@ body {
   box-shadow: 0 2px 20px rgba(0,0,0,0.4);
 }
 
+.brand-text {
+  font-family: 'Courier New', monospace;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #fff !important;
+  letter-spacing: 0.02em;
+}
+
+.brand-text::before {
+  content: '> ';
+  color: var(--cyan);
+}
+
 #main-nav .nav-link {
   color: rgba(255,255,255,0.75) !important;
   font-size: 0.9rem;
