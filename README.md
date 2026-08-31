@@ -1,4 +1,4 @@
-# Hey, I'm Sean Morrison
+# Hey, I'm Sean
 
 I'm an IT Endpoint Engineer based in the Bay Area, CA. I work across macOS, Windows, and Linux with a focus on endpoint management, MDM, automation, and enterprise infrastructure.
 
