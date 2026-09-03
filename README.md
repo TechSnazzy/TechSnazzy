@@ -17,7 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechSnazzy/TechSnazzy/output/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechSnazzy/TechSnazzy/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechSnazzy/TechSnazzy/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/TechSnazzy/TechSnazzy/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" />
+  </picture>
 </p>
 
 ### whoami
