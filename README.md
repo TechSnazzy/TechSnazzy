@@ -39,6 +39,13 @@ and experiments.
 - [seantechguy.com](https://seantechguy.com)
 
 <p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TechSnazzy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=percentile" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSnazzy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=TechSnazzy&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=7D8590&currStreakNum=E6EDF3&sideNums=E6EDF3" />
 </p>
+
+<!--
+  github-readme-stats cards (languages / commit totals) were here but the public
+  instance (github-readme-stats.vercel.app) is chronically rate-limited and was
+  503ing when this went up. Re-add when it's healthy:
+  https://github-readme-stats.vercel.app/api?username=TechSnazzy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=percentile
+  https://github-readme-stats.vercel.app/api/top-langs/?username=TechSnazzy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9
+-->
