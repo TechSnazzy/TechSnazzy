@@ -15,7 +15,7 @@ jobs:
     timeout-minutes: 20
     steps:
       - name: generate contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # v5.3.2
         with:
           github_user_name: ${{ github.repository_owner }}
           hide_month_labels: "false"
